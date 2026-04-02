@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V10.260331 - Maverick MK Pyxis](https://github.com/Chauvet-Pro/MAVERICKMKPYXIS/blob/b75802781e2c095f58ee24ba24e458f6c2e6c58c/firmware/V10.260331.zip)
+- Fixes sACN IGMP issues
+
 [V10.221107 - Maverick MK Pyxis](https://github.com/Chauvet-Pro/MAVERICKMKPYXIS/blob/e66d5259689c30b6b091251b11ea4e24a8f7882e/firmware/V10.221107.zip)
 - Updated software
 
